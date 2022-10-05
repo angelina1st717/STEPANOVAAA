@@ -1,0 +1,15 @@
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/bin/Debug/net6.0/HWTask23
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/bin/Debug/net6.0/HWTask23.deps.json
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/bin/Debug/net6.0/HWTask23.runtimeconfig.json
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/bin/Debug/net6.0/HWTask23.dll
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/bin/Debug/net6.0/HWTask23.pdb
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.csproj.AssemblyReference.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.AssemblyInfoInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.AssemblyInfo.cs
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.csproj.CoreCompileInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.dll
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/refint/HWTask23.dll
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.pdb
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/HWTask23.genruntimeconfig.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask23/obj/Debug/net6.0/ref/HWTask23.dll
