@@ -1,0 +1,15 @@
+/Users/angelinastepanova/Desktop/C.SEM/Task00/bin/Debug/net6.0/Task00
+/Users/angelinastepanova/Desktop/C.SEM/Task00/bin/Debug/net6.0/Task00.deps.json
+/Users/angelinastepanova/Desktop/C.SEM/Task00/bin/Debug/net6.0/Task00.runtimeconfig.json
+/Users/angelinastepanova/Desktop/C.SEM/Task00/bin/Debug/net6.0/Task00.dll
+/Users/angelinastepanova/Desktop/C.SEM/Task00/bin/Debug/net6.0/Task00.pdb
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.csproj.AssemblyReference.cache
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.AssemblyInfoInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.AssemblyInfo.cs
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.csproj.CoreCompileInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.dll
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/refint/Task00.dll
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.pdb
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/Task00.genruntimeconfig.cache
+/Users/angelinastepanova/Desktop/C.SEM/Task00/obj/Debug/net6.0/ref/Task00.dll
