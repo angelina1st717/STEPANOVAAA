@@ -2,22 +2,23 @@
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
-int x1 = ReadInt("Введите координату X первой точки: ");
-int y1 = ReadInt("Введите координату Y первой точки: ");
-int z1 = ReadInt("Введите координату Z первой точки: ");
-int x2 = ReadInt("Введите координату X второй точки: ");
-int y2 = ReadInt("Введите координату Y второй точки: ");
-int z2 = ReadInt("Введите координату Z второй точки: ");
+Console.WriteLine("Введите точку x1: ");
+int x1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите точку y1: ");
+int y1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите точку z1: ");
+int z1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите точку x2: ");
+int x2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите точку y2: ");
+int y2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите точку z2: ");
+int z2 = Convert.ToInt32(Console.ReadLine());
 
-int A = x2 - x1;
-int B = y2 - y1;
-int C = z1 - z2;
-
-double length = Math.Sqrt(A * A + B * B + C * C);
-Console.WriteLine($"Длинна отрезка {length}");
-
-int ReadInt(string message)
+double Distance(int argx1, int argy1, int argz1, int argx2, int argy2,int argz2)
 {
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
+    double result = Math.Sqrt(Math.Pow((argx2 - argx1), 2) + Math.Pow((argy2 - argy1), 2) + Math.Pow((argz2 - argz1), 2));
+    return result; 
 }
+double length = Math.Round(Distance(x1, x2, y1, y2, z1, z2), 2, MidpointRounding.ToZero);
+Console.WriteLine(length);
