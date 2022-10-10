@@ -1,0 +1,15 @@
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/bin/Debug/net6.0/HWTask29
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/bin/Debug/net6.0/HWTask29.deps.json
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/bin/Debug/net6.0/HWTask29.runtimeconfig.json
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/bin/Debug/net6.0/HWTask29.dll
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/bin/Debug/net6.0/HWTask29.pdb
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.csproj.AssemblyReference.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.AssemblyInfoInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.AssemblyInfo.cs
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.csproj.CoreCompileInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.dll
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/refint/HWTask29.dll
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.pdb
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/HWTask29.genruntimeconfig.cache
+/Users/angelinastepanova/Desktop/C.SEM/HWTask29/obj/Debug/net6.0/ref/HWTask29.dll
