@@ -6,7 +6,7 @@
 // 5 2 6 7
 // Программа считает сумму элементов в каждой строке и выдаёт номер строки с наименьшей суммой элементов: 1 строка
 
-int[,] GetMatrix(int m, int n) // Создание двумерного массива, заполненного случайными числами
+int[,] GetMatrix(int m, int n) 
 {
     int[,] matrix = new int[m, n];
     Random rnd = new Random();
@@ -20,7 +20,7 @@ int[,] GetMatrix(int m, int n) // Создание двумерного масс
     return matrix;
 }
 
-void PrintMatrix(int[,] array) // Печать двумерного массива
+void PrintMatrix(int[,] array) 
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
