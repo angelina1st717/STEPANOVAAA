@@ -1,0 +1,15 @@
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/bin/Debug/net6.0/FINALTASK
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/bin/Debug/net6.0/FINALTASK.deps.json
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/bin/Debug/net6.0/FINALTASK.runtimeconfig.json
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/bin/Debug/net6.0/FINALTASK.dll
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/bin/Debug/net6.0/FINALTASK.pdb
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.csproj.AssemblyReference.cache
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.AssemblyInfoInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.AssemblyInfo.cs
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.csproj.CoreCompileInputs.cache
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.dll
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/refint/FINALTASK.dll
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.pdb
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/FINALTASK.genruntimeconfig.cache
+/Users/angelinastepanova/Desktop/C.SEM/FINALTASK/obj/Debug/net6.0/ref/FINALTASK.dll
